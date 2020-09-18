@@ -30,7 +30,8 @@ The 'Exploratory_analysis_twitter_obama_trump_biden.ipynb' details how I was abl
 
 
 ## Project Description
-The project is broken down into 7 key sections:
+
+The project is broken down into 7 key sections within the "Exploratory_analysis_twitter_obama_trump_biden.ipynb" workbook:
 
 1. Scraping tweet level data from Obama, Trump and Biden's Twitter feeds via the "GetOldTweet3" library. Given the limitations of only being able to obtain up to 3,200 tweets via basic Twitter API access. Working with the 'GetOldTweets3' library is a useful hack for scraping an inifinite amount of tweets as we're able to obtain the neccessary tweet data through web scraping the twitter user feeds versus accessing through an API connection.
 2. Assessing the data in order to identify what cleaning steps are required.
@@ -46,6 +47,14 @@ Will need to pip install the following libraries in order to scrape tweets and g
 
 1. https://pypi.org/project/GetOldTweets3/
 2. https://github.com/amueller/word_cloud
+
+### Relevant files
+
+1. Web scraping, cleaning and exploratory analysis: "Exploratory_analysis_twitter_obama_trump_biden.ipynb"
+2. Explanatory analysis (Jupyter Notebook and HTML Slidedeck) : "Explanatory_analysis_twitter_obama _trump_biden.ipynb", "Explanatory_analysis_twitter_obama _trump_biden.slides.html"
+3. Clean csv file for Jupyter Notebook usage: "biden_trump_obama_clean_2008_2020_original"
+4. Clean csv file for Google Sheets usage: "biden_trump_obama_clean_2008_2020_gspread"
+5. Clean csv file for DataStudio usage: "biden_trump_obama_clean_2008_2020_datastudio"
 
 ## References
 
