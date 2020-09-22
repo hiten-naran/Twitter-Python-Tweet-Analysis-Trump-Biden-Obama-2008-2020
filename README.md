@@ -1,4 +1,4 @@
-# Twitter WordCloud analysis for Trump, Biden & Obama with Python
+# Twitter + Python: Tweet Analysis on Trump, Obama and Biden
 
 ## Project Intro/Objective
 The purpose of this project is to visualise observations made through analysing scraped tweet level data from 2008-2020 for Barack Obama, Joe Biden and Donald Trump.
